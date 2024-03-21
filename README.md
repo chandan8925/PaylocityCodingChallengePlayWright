@@ -8,6 +8,10 @@ Updating Employee Details: Enables editing an existing employee's details as nee
 Deleting Employees: Allows removal of employees from the system.
 Framework: The project adheres to the Page Object Model (POM) design pattern, promoting code modularity and maintainability.
 Running the Tests:
+
+Please make sure to go to the tests folder and run this command **npm i -D @playwright/test**
+This will install all node modules and dependencies.
+
 There are two ways to execute the automated tests:
 1. From the Terminal:
 Download the project from Git and store it in a suitable location on your machine.
