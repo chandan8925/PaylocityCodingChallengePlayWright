@@ -25,6 +25,7 @@ Execute the tests with a user interface for visualization using this command:
 Run the following command to initiate the tests to run in test explorer UI mode: npx playwright test --ui
 
 Screenshot for Test Results
+![image](https://github.com/chandan8925/PaylocityCodingChallengePlayWright/assets/14102123/60072c8e-6a07-4aad-95c8-4000986228cf)
 
 Configuration:
 The project's configuration file is set up to employ a single worker for executing the three test cases, ensuring sequential testing (one test at a time).
