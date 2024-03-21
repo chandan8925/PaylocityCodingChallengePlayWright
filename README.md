@@ -1,4 +1,6 @@
 **Playwright Automation In UI For Benefits Dashboard**
+
+
 This project demonstrates a UI automation framework built using JavaScript and Playwright for testing a benefits dashboard application. It includes functionalities for:
 Adding Employees: Simulates adding a new employee to the system.
 Verifying Employee Details: Confirm that the added employee information is accurate.
